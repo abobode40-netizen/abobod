@@ -1,0 +1,8 @@
+{
+  "name": "مذاكرة الثاني الإعدادي الأزهري والعام",
+  "description": "تطبيق شامل للمذاكرة والشرح والمراجعة والاختبارات لمناهج الصف الثاني الإعدادي (الأزهري والعام)",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
